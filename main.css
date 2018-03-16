@@ -1,0 +1,22 @@
+.contentor {
+    padding-top:10% 
+  }
+
+
+.formulario-registo{
+    margin: 0 auto;
+    width: 40%;
+    background: lightgray;
+    border: 1px solid lightslategray;
+}
+
+.area-de-texto{
+    width: 95%;
+    display: block;
+    margin: 10px;
+    line-height: 2em
+}
+
+.titulo{
+    text-align: center;
+}
